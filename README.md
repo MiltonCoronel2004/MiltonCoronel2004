@@ -97,10 +97,10 @@ Me apasiona construir soluciones eficientes, aprender nuevas tecnologías y comb
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiltonCoronel2004&repo=MyFitnessApp&theme=tokyonight"/>
   </a>
   <a href="https://github.com/MiltonCoronel2004/NodeAPI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiltonCoronel2004&repo=NodeAPI&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiltonCoronel2004&repo=CryptoMasyvoLibra&theme=tokyonight"/>
   </a>
   <a href="https://github.com/MiltonCoronel2004/NextTailwindTemplate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiltonCoronel2004&repo=NextTailwindTemplate&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiltonCoronel2004&repo=Login_Stock_Control_System&theme=tokyonight"/>
   </a>
 </p>
 
