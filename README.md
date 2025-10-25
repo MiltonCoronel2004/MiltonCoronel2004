@@ -25,7 +25,7 @@ Me apasiona construir soluciones eficientes, aprender nuevas tecnologías y comb
 ## 🌐 Conecta conmigo
 
 <p align="center">
-  <a href="mailto:miltoncoronel.dev@gmail.com">
+  <a href="mailto:miltoncoronel2004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/MiltonCoronel2004">
