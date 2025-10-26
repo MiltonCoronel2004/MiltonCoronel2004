@@ -1,24 +1,22 @@
-<h1 align="center">Hola, soy Milton Coronel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hola, soy Milton Coronel 👋</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Desarrollador+Web+y+Mobile;Apasionado+por+la+tecnología+y+la+optimización;Enfocado+en+crear+soluciones+reales;Siempre+aprendiendo+nuevas+tecnologías">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Desarrollador+Web+y+Mobile;Apasionado+por+la+tecnología;Enfocado+en+crear+soluciones+reales;Siempre+aprendiendo+nuevas+tecnologías">
   </a>
 </p>
 
 ---
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="45"></picture> Sobre mí
-
-<picture> 
-  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
-</picture>
+## 👨‍💻 Sobre mí
 
 Soy **Desarrollador de Software** con experiencia en **aplicaciones web y móviles**, especializado en **JavaScript, Node.js, React y Next.js**.  
+
 He trabajado en empresas que desarrollan software de nicho, participando en la creación de productos escalables y mantenibles.  
+
 Cuento con formación universitaria en **Programación**, lo que refuerza mi base en ingeniería de software y buenas prácticas.  
 
-Me apasiona construir soluciones eficientes, aprender nuevas tecnologías y combinar diseño funcional con desarrollo técnico.  
+Me apasiona construir soluciones eficientes, aprender nuevas tecnologías y combinar diseño funcional con desarrollo técnico.
 
 ---
 
@@ -49,8 +47,9 @@ Me apasiona construir soluciones eficientes, aprender nuevas tecnologías y comb
 ### 💻 Lenguajes de programación
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=plastic&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=plastic&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-%2300f.svg?style=plastic&logo=database&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-%2300f.svg?style=plastic&logo=mysql&logoColor=white"/>
 </p>
 
 ### ⚙️ Frameworks y librerías
@@ -59,9 +58,9 @@ Me apasiona construir soluciones eficientes, aprender nuevas tecnologías y comb
   <img src="https://img.shields.io/badge/Express-%23000000.svg?style=plastic&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=plastic&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=plastic&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React%20Native-%2302569B.svg?style=plastic&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=plastic&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Expo-%23000020.svg?style=plastic&logo=expo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nativewind-%2361DAFB.svg?style=plastic&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-%2306B6D4.svg?style=plastic&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white"/>
 </p>
 
@@ -70,45 +69,62 @@ Me apasiona construir soluciones eficientes, aprender nuevas tecnologías y comb
   <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=plastic&logo=gitlab&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=plastic&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"/>
 </p>
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📂 Proyectos destacados
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiltonCoronel2004&theme=tokyonight_duo" alt="Streak Stats"/>
-</p>
+### 🏢 [MyStockSystem](https://github.com/MiltonCoronel2004/MyStockSystem)
+**Sistema de gestión de inventario y productos**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MiltonCoronel2004&show_icons=true&count_private=true&theme=tokyonight&layout=compact" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MiltonCoronel2004&langs_count=10&theme=tokyonight&layout=compact" height="180px"/>
-</p>
+Sistema completo de gestión de stock para pequeñas y medianas empresas con autenticación funcional, operaciones CRUD y API RESTful.
+
+**Stack:** React • Node.js • Express • MySQL • JWT • Zustand • Vite
+
+**Características:**
+- 🔐 Autenticación y registro de usuarios
+- 📦 Gestión completa de productos e inventario
+- 🎨 Interfaz moderna y responsiva
+- 🔒 API REST segura con validaciones
 
 ---
 
-## 📂 Repositorios destacados
+### 💪 [MyFitnessApp](https://github.com/MiltonCoronel2004/MyFitnessApp)
+**Aplicación móvil para gestión de rutinas de gimnasio**
 
-<p align="center">
-  <a href="https://github.com/MiltonCoronel2004/MyFitnessApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiltonCoronel2004&repo=MyFitnessApp&theme=tokyonight"/>
-  </a>
-  <a href="https://github.com/MiltonCoronel2004/NodeAPI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiltonCoronel2004&repo=CryptoMasyvoLibra&theme=tokyonight"/>
-  </a>
-  <a href="https://github.com/MiltonCoronel2004/NextTailwindTemplate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiltonCoronel2004&repo=Login_Stock_Control_System&theme=tokyonight"/>
-  </a>
-</p>
+App móvil desarrollada con React Native y Expo que permite crear, editar y hacer seguimiento de rutinas de ejercicio personalizadas.
+
+**Stack:** React Native • Expo • Node.js • Express • MySQL • Nativewind
+
+**Características:**
+- 📱 Compatible con Android e iOS
+- 🏋️ Creación y edición de rutinas personalizadas
+- 📊 Seguimiento de progreso
+- 🎯 Organización por categorías
+
+---
+
+### 📈 [CryptoMasyvoLibra](https://github.com/MiltonCoronel2004/CryptoMasyvoLibra)
+**Dashboard interactivo de criptomonedas en tiempo real**
+
+Dashboard que consume WebSockets de Binance para mostrar datos de criptomonedas en tiempo real con visualizaciones interactivas.
+
+**Stack:** React • WebSockets • Binance API
+
+**Características:**
+- 📡 Datos en tiempo real vía WebSockets
+- 💹 Visualización de precios y tendencias
+- ⚡ Actualizaciones instantáneas
+- 🎨 Interfaz intuitiva y moderna
 
 ---
 
 ## 💬 Frase
 
-> “No busco escribir más código, busco escribir mejor lógica.” — *Milton Coronel*
+> "No busco escribir más código, busco escribir mejor lógica." — *Milton Coronel*
 
 ---
 
